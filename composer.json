@@ -1,0 +1,22 @@
+{
+  "name": "jackie/kskeleton",
+  "description": "Keer framework project skeleton.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jackie Tao",
+      "email": "jackie8tao@outlook.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.0",
+    "jackie8tao/keer": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  }
+}
