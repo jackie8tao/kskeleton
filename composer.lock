@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d9f7c2dc7524aded697c6d1d5ab3694b",
+    "content-hash": "f31a00ee067f8f58322fffe1a4362b1e",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -358,16 +358,16 @@
         },
         {
             "name": "jackie8tao/keer",
-            "version": "1.2",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jackie8tao/keer.git",
-                "reference": "afe7cc22ed79c20bce9f05f1f843df366d0e1f42"
+                "reference": "e08fa7b39523032cce9363a5f62c85c9768569d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jackie8tao/keer/zipball/afe7cc22ed79c20bce9f05f1f843df366d0e1f42",
-                "reference": "afe7cc22ed79c20bce9f05f1f843df366d0e1f42",
+                "url": "https://api.github.com/repos/jackie8tao/keer/zipball/e08fa7b39523032cce9363a5f62c85c9768569d9",
+                "reference": "e08fa7b39523032cce9363a5f62c85c9768569d9",
                 "shasum": ""
             },
             "require": {
@@ -405,7 +405,7 @@
                 }
             ],
             "description": "A simple and powerful php web framework for development basing on api!",
-            "time": "2019-02-19T19:15:25+00:00"
+            "time": "2019-02-19T20:18:10+00:00"
         },
         {
             "name": "monolog/monolog",
